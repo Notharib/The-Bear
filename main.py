@@ -1,12 +1,3 @@
-# Advanced features being used:
-# 1) Inventory system
-# 2) Levels
-# 3) Scoring System
-
-# Additional feature programmed in based off of peer feedback:
-# Effect stacking
-# Health displayed after drinking a healing potion
-
 from sys import exit
 import time, random, os
 
